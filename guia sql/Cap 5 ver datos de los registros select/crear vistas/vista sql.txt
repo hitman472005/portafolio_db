@@ -1,0 +1,4 @@
+create view nombre de la vista
+select nombre del campo from nombre de la tabla
+
+select from nombre de la vista
